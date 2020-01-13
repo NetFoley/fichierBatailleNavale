@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1578925822 source:d:\netfo\documents\ludus\c\fichierbataille\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"boat.h"
+	"gameMap.h"
+
+1578922013 d:\netfo\documents\ludus\c\fichierbataille\boat.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"gameMap.h"
+	"typedef.h"
+
+1578923728 d:\netfo\documents\ludus\c\fichierbataille\gamemap.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"boat.h"
+	"typedef.h"
+
+1578925578 d:\netfo\documents\ludus\c\fichierbataille\typedef.h
+
+1578922013 source:d:\netfo\documents\ludus\c\fichierbataille\boat.c
+	"boat.h"
+
+1578923784 source:d:\netfo\documents\ludus\c\fichierbataille\gamemap.c
+	"gameMap.h"
+
